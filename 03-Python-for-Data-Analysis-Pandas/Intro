@@ -1,0 +1,18 @@
+Pandas is built on top of the NumPy package, meaning a lot of the structure of NumPy is used or replicated in Pandas. 
+Data in pandas is often used to feed statistical analysis in SciPy, plotting functions from Matplotlib, and machine learning algorithms in Scikit-learn.
+Jupyter Notebooks offer a good environment for using pandas to do data exploration and modeling, but pandas can also be used in text editors just as easily.
+Jupyter Notebooks give us the ability to execute code in a particular cell as opposed to running the entire file. This saves a lot of time when working with large datasets and complex transformations. 
+Notebooks also provide an easy way to visualize pandas’ DataFrames and plots.
+
+Pandas is an easy package to install. 
+    conda install pandas or
+    pip install pandas
+    
+To import pandas we usually import it with a shorter name since it's used so much:
+    import pandas as pd    
+    
+The primary two components of pandas are the Series and DataFrame.
+
+    A Series is essentially a column, and a DataFrame is a multi-dimensional table made up of a collection of Series.
+
+    
