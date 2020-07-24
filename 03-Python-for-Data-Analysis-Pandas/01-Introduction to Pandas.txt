@@ -1,7 +1,25 @@
 # Introduction to Pandas
 
+ 1.Pandas DataFrame is two-dimensional size-mutable, potentially heterogeneous tabular data structure with labeled axes (rows and columns).
+ 2.Key Features of Pandas
+    Fast and efficient DataFrame object with default and customized indexing.
+    Tools for loading data into in-memory data objects from different file formats.
+    Data alignment and integrated handling of missing data.Reshaping and pivoting of date sets.
+    Label-based slicing, indexing and subsetting of large data sets.
+    Columns from a data structure can be deleted or inserted.
+    Group by data for aggregation and transformations.
+    High performance merging and joining of data.
+    Time Series functionality.
+  3.Installation
+      pip install pandas
+  4.Pandas deals with the following three data structures −
+      Series
+      DataFrame
+      Panel    
+  
 
 
+#Notebooks in pandas section
 * Introduction to Pandas
 * Series
 * DataFrames
