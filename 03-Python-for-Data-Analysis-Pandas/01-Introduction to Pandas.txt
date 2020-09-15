@@ -16,6 +16,14 @@
       Series
       DataFrame
       Panel    
+      
+      
+      a.Series
+           Series is a one-dimensional array like structure with homogeneous data. For example, the following series is a collection of integers 56,89,96
+           Features:
+             Homogeneous data
+             Size Immutable
+             Values of Data Mutable
   
 
 
